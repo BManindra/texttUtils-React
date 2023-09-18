@@ -36,3 +36,29 @@
     transform: rotate(360deg);
   }
 }
+
+/* This is CSS Code */
+.bgE1866B{
+  background-color: #d05252 !important;
+  color: #ffffff !important;
+}
+.bg96E16B{
+  background-color: #56c956 !important;
+  color: #ffffff !important;
+}
+.bg73AAEB{
+  background-color: #4d6dcd !important;
+  color: #ffffff !important;
+}
+.bgCF6DD3{
+  background-color: #c84bb5 !important;
+  color: #ffffff !important;
+}
+.btn.btn-border{
+  border: 2px solid #ffffff;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  margin: 0 3px;
+}
+
